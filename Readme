@@ -1,24 +1,32 @@
-Project Overview
+### **README: Restaurant Booking Platform**
+
+---
+
+#### **Project Overview**
 This platform allows users in Almaty to seamlessly search for and book tables at restaurants. With features like detailed restaurant profiles, search filters, and special promotions, it simplifies the dining experience while helping restaurants attract more customers.
 
-Features
-Table Booking: Reserve tables by selecting date, time, location, and party size.
-Restaurant Profiles: View photos, ratings, average prices, and special features (e.g., live music).
-Search & Filter: Search restaurants by cuisine, price, or location.
-Special Offers: Redeem discounts like 10% off the first booking or weekday evening promotions.
-Mobile-Responsive Design: Accessible and functional across all devices.
-Customer Support: Reach out through a contact form or browse FAQs for quick answers.
-Technologies Used
-Front-End:
+---
 
-React for user interface components.
-CSS/SCSS for styling.
-Axios for API calls.
-Back-End:
+#### **Features**
+- **Table Booking**: Reserve tables by selecting date, time, location, and party size.
+- **Restaurant Profiles**: View photos, ratings, average prices, and special features (e.g., live music).
+- **Search & Filter**: Search restaurants by cuisine, price, or location.
+- **Special Offers**: Redeem discounts like 10% off the first booking or weekday evening promotions.
+- **Mobile-Responsive Design**: Accessible and functional across all devices.
+- **Customer Support**: Reach out through a contact form or browse FAQs for quick answers.
 
-Node.js with Express.js for handling business logic and API services.
-Authentication using JSON Web Tokens (JWT).
-Database:
+---
 
-PostgreSQL/MySQL for storing user data, bookings, and restaurant information.
-Redis (optional) for caching frequent queries.
+#### **Technologies Used**
+- **Front-End**:  
+  - React for user interface components.  
+  - CSS/SCSS for styling.  
+  - Axios for API calls.  
+
+- **Back-End**:  
+  - Node.js with Express.js for handling business logic and API services.  
+  - Authentication using JSON Web Tokens (JWT).  
+
+- **Database**:  
+  - PostgreSQL/MySQL for storing user data, bookings, and restaurant information.  
+  - Redis (optional) for caching frequent queries.  
